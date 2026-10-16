@@ -19,7 +19,7 @@ export default {
 		usetemplate: 'main'
 	},
 	git: {
-		repo: ``,
+		repo: `https://github.com/IhorSafronov/veraviapet.git`,
 		branch: `main`
 	},
 	navpanel: {
